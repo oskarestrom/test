@@ -1,2 +1,2 @@
 def multiple(x,y):
-  pass
+  return x*y
